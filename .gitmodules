@@ -1,3 +1,6 @@
 [submodule "bank_modern_app"]
 	path = bank_modern_app
 	url = https://github.com/BinBin2905/bank_modern_app.git
+[submodule "snapgram/snapgram"]
+	path = snapgram/snapgram
+	url = https://github.com/BinBin2905/snapgram.git
